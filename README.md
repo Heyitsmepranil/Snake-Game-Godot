@@ -6,7 +6,7 @@ A classic Snake Game built using the **Godot Game Engine**. Control the snake, c
 
 - Control the snake using the arrow keys.
 - Eat food to increase your score and grow longer.
-- Avoid hitting the walls or colliding with your own body.
+- Avoid colliding with your own body.
 - Try to achieve the highest score possible!
 
 ## 🕹️ Controls
